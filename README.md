@@ -1,7 +1,13 @@
 # ⛩️ Hola👋, soy Carlos / Hi there👋, I'm Carlos ⛩️
 
-<img align='center' src= https://github.com/carlillous/carlillous/assets/94083411/73c14008-3ceb-40e8-a3ee-22bc35f7f4b1) >
+<img align='center' src= https://github.com/carlillous/carlillous/assets/94083411/73c14008-3ceb-40e8-a3ee-22bc35f7f4b1 >
 <br>
+<p  align="center">
+<br>
+<img src="https://quotes-github-readme.vercel.app/api?quote=Hard%20work%20beats%20talent%20when%20talent%20doesn%27t%20work%20hard.&type=horizontal&author=Kevin%20Durant">
+<img src="https://quotes-github-readme.vercel.app/api?quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20again.%20Fail%20again.%20Fail%20better&type=horizontal&author=Samuel%20Beckett">
+
+</p>
 
 ### 🧭 &nbsp;About Me
 
