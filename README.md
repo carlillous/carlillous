@@ -12,7 +12,7 @@
 <img align='right' src= "https://github.com/carlillous/carlillous/assets/94083411/45bf8fbe-894a-4d73-8477-49abc846e0fb" width='400'>
 
 - 👨‍🦱 My name is **Carlos Mendoza Eggers**.
-- ⏰ I'm 21 years old.
+- ⏰ I'm 22 years old.
 - 📌 I was born in Gran Canaria, one of the main islands of the Canary Islands 🇮🇨 .
 - 🔭 I’m currently studying Data Science and Engineering at the University of Las Palmas de Gran Canaria.
 - 🤔 I am really interested in AI, especially in the field of Machine and Deep Learning.
